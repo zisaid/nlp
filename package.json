@@ -1,0 +1,28 @@
+{
+  "name": "@zisaid/nlp",
+  "version": "0.0.1",
+  "description": "nlp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zisaid/nlp.git"
+  },
+  "keywords": [
+    "nlp"
+  ],
+  "author": "zisaid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zisaid/nlp/issues"
+  },
+  "homepage": "https://github.com/zisaid/nlp#readme",
+  "devDependencies": {},
+  "dependencies": {},
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  }
+}
