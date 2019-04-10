@@ -1,6 +1,6 @@
 {
   "name": "@zisaid/nlp",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "nlp",
   "main": "index.js",
   "scripts": {
